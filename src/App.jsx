@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
-import RandomAnimeAvatar from './Components/avatar'
+import RandomAnimeAvatar from './Components/Avatar'
 
 // import Card from './Components/Card'
 // import Cards from './Components/Cards'
